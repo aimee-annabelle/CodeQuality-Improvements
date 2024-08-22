@@ -1,3 +1,2 @@
-function multiply(firstNumber, firstNumber) {
-  return firstNumber * firstNumber;
-}
+const multiply = (firstNumber, firstNumber) => firstNumber * firstNumber;
+
