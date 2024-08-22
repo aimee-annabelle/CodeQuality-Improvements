@@ -1,3 +1,1 @@
-function greet(name) {
-  return `Hello${name ? ", " + name : ""}!`;
-}
+const greet = (name) => `Hello${name ? ", " + name : ""}!`;
